@@ -3,13 +3,9 @@ title: "FlashFlare"
 draft: false
 language: pt-br
 featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: Sumário de seu projeto
 author: Everton Kenji Ikeda
-authorimage: ../assets/images/global/author.webp
 categories: Blog
 tags: ["ES", "Software", "Educação", "Tecnologia", "Estudo", "Cultura", "Memorização"] 
-linkandroid: link  de download do aplicativo em android
-linkios: link de download aplicativo em ios
 linkweb: https://chromewebstore.google.com/detail/flashflare/cdndnipipmkfljhkaoaekgpklglmiajl?hl=pt-BR
 linkblog: https://flashflareextension.blogspot.com/
 linkvideo: https://youtu.be/nUy1gHdYU6Y
