@@ -16,19 +16,9 @@ linkvideo: https://youtu.be/nUy1gHdYU6Y
 
 ---
 
-# FlashFlare
-
 ## Sobre o sistema
 
-Pelo evidente fato explorado e exposto por instituições, tal como a Associação Americana de Pesquisa 
-
-Educacional e a Sociedade Internacional para Tecnologia em Educação, o uso de flashcards apresentou-se 
-
-eficiente para estudos e memorização. Dessa forma, a criação de uma extensão do google culmina no 
-
-objetivo de facilitar e incentivar o uso dessa técnica de estudos, o qual independe de barreiras bem como 
-
-idade ou nicho acadêmico.
+Pelo evidente fato explorado e exposto por instituições, tal como a Associação Americana de Pesquisa Educacional e a Sociedade Internacional para Tecnologia em Educação, o uso de flashcards apresentou-se eficiente para estudos e memorização. Dessa forma, a criação de uma extensão do google culmina no objetivo de facilitar e incentivar o uso dessa técnica de estudos, o qual independe de barreiras bem como idade ou nicho acadêmico.
 
 
 ## Justificativa
